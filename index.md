@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![my photo](photo.jpg){:height="250px" width="250px"}
+![my photo](photo.jpg)
 
 ### **Education** ###
 1. B.S. in Electrical Engineering and Computer Science (2015 - 2018)<br/>
